@@ -8,9 +8,9 @@ on.
 # A Problem...?
 I tried multiple times to run this line in the terminal:
 
-'''
+```
 py -m venv venv
-'''
+```
 
 When I did, I always got the message:
 Can't find a default Python.
